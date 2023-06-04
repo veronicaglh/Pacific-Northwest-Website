@@ -1,0 +1,2 @@
+###### Pacific Northwest X-Ray Inc is a company that provides x-ray equipment. The company offers portable radiographic, cabinetry, eyewear, gloves, aprons, and other related products. This repository is redesigned version of the companies website. 
+###### Don't want to clone this repo? You can view the output here: https://drive.google.com/file/d/1l5Xd17XWtEma7xs_lvNtfNSY8JDx4Oxt/view?usp=sharing
